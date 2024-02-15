@@ -22,4 +22,4 @@ A growing trend in recommendation systems is contextual filtering, which incorpo
 
 In conclusion, recommendation systems are pivotal for driving engagement and personalization across various industries, ranging from e-commerce to media and entertainment. Leveraging advanced machine learning techniques, these systems empower businesses to deliver tailored recommendations that augment user satisfaction and stimulate revenue growth.
 
-![alt text](notebooks/images/image.png)
+![!\[alt text\](notebooks/images/image.png)](images/image.png) 
